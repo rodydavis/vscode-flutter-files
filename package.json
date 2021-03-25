@@ -212,7 +212,7 @@
     "prettier": "1.16.4"
   },
   "dependencies": {
-    "js-yaml": "3.12.1",
+    "js-yaml": "3.13.1",
     "express-es6-template-engine": "2.1.7"
   }
 }
